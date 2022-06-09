@@ -2,7 +2,7 @@
 
 Olá esse é um projeto do programa ONE - Oracle Next Education.
 
-<img src=""/>
+<img src="../img/jogodaforca.jpg"/>
 
 #challengeonejogoforca2
   
